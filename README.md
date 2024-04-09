@@ -14,7 +14,7 @@ Clone the repository to your local machine:
 
 terminal
 Copy code
-git clone https://github.com/MinenhleR/task-management-program.git
+git clone https://github.com/MinenhleR/task-management-1/
 Navigate to the project directory:
 
 terminal
